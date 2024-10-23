@@ -52,7 +52,7 @@ This project was a great opportunity to apply both my technical and soft skills 
 
 ## Report Links
 
-- []()
+- [Customer Performance Report](Customer Performance Report.pdf)
 - []()
 - []()
 - []()
