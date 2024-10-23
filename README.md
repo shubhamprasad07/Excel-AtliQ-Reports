@@ -52,7 +52,7 @@ This project was a great opportunity to apply both my technical and soft skills 
 
 ## Report Links
 
-- [Customer Performance Report](Customer Performance Report.pdf)
+- [Customer Performance Report.pdf](https://github.com/shubhamprasad07/Excel-AtliQ-Reports/blob/main/Customer%20Performance%20Report.pdf)
 - []()
 - []()
 - []()
