@@ -52,7 +52,7 @@ This project was a great opportunity to apply both my technical and soft skills 
 
 ## Report Links
 
-- [Customer Performance Report.pdf](https://github.com/shubhamprasad07/Excel-AtliQ-Reports/blob/main/Customer%20Performance%20Report.pdf)
-- []()
-- []()
-- []()
+- [Customer Performance Report](https://github.com/shubhamprasad07/Excel-AtliQ-Reports/blob/main/Customer%20Performance%20Report.pdf)
+- [Market Performance Report](https://github.com/shubhamprasad07/Excel-AtliQ-Reports/blob/main/Market%20Performance%20Report.pdf)
+- [P&L Statement by Months](https://github.com/shubhamprasad07/Excel-AtliQ-Reports/blob/main/P%26L%20Statement%20by%20Months.pdf)
+- [Product Performance Report](https://github.com/shubhamprasad07/Excel-AtliQ-Reports/blob/main/Product%20Performance%20Report.pdf)
