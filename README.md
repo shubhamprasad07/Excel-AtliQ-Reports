@@ -5,10 +5,10 @@
 This project revolves around generating detailed reports to analyze sales and financial performance for AtliQ. The goal is to provide insights into customer behavior, market trends, and the company's financial health by creating comprehensive reports using advanced data processing and reporting techniques.
 
 ## Sales Reports
-
+### ![Customer Performance]("assets/Customer_Performance_ss2.png")  
 1. **Customer Performance Report**  
    This report offers an in-depth analysis of customer performance over time, presenting sales trends and growth rates to help evaluate customer engagement and long-term value.
-
+### ![Market Performance and Sales Target Analysis]("assets/market_performance_vs_target_ss2.png")  
 2. **Market Performance and Sales Target Analysis**  
    A comparative analysis of the company's market performance against its sales targets. This report provides insight into how well the company's strategies align with market trends and if the targets are being achieved.
 
